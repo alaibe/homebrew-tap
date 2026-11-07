@@ -1,6 +1,6 @@
 cask "kestrel" do
-  version "1.2.4"
-  sha256 "d60e315f1eceb4e517d99288f93fbc51a47b649388b9036e83d99971ad923deb"
+  version "1.2.5"
+  sha256 "70ff13e2acfbd23fda6c3f5e8e352f27466ab8e6f9903b87fec1e2b9dcdde6dc"
 
   url "https://github.com/alaibe/kestrel-releases/releases/download/v#{version}/Kestrel-#{version}.dmg"
   name "Kestrel"
