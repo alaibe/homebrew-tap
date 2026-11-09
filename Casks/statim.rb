@@ -1,6 +1,6 @@
 cask "statim" do
-  version "0.7.9"
-  sha256 "59e76d8a5bae225723470d26f07fc2ee3822a7541908cea665f0cf39701dbb11"
+  version "0.7.10"
+  sha256 "5dd7e8c55438c7cc2da03dc3217fa51717d0146ba8efbb60355c2f933601c820"
 
   url "https://github.com/alaibe/statim/releases/download/v#{version}/Statim_#{version}_universal.dmg"
   name "Statim"
