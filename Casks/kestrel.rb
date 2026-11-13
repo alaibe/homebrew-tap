@@ -17,5 +17,13 @@ cask "kestrel" do
 
   app "Kestrel.app"
 
-  zap trash: "~/Library/Containers/cc.laibe.kestrel"
+  zap trash: [
+    "~/Library/Application Support/cc.laibe.kestrel",
+    "~/Library/Caches/cc.laibe.kestrel",
+    "~/Library/Caches/kestrel",
+    "~/Library/Containers/cc.laibe.kestrel",
+    "~/Library/Preferences/cc.laibe.kestrel.plist",
+    "~/Library/WebKit/cc.laibe.kestrel",
+    "~/Library/WebKit/kestrel",
+  ]
 end
