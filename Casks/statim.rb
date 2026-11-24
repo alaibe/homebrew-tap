@@ -1,8 +1,8 @@
 cask "statim" do
-  version "0.7.13"
-  sha256 "acd54ed76e95083aca575e157d5b9d1271226c82a46d95a93a8bd0ad2495ac52"
+  version "0.7.14"
+  sha256 "7ce82224f8234a78bb759c32119d96c955eeeb58653a5c23213d127025facb78"
 
-  url "https://github.com/alaibe/statim/releases/download/v#{version}/Statim_#{version}_universal.dmg"
+  url "https://github.com/alaibe/statim/releases/download/v#{version}/Statim-#{version}.dmg"
   name "Statim"
   desc "Messenger for XMTP, Matrix, Telegram, Nostr and Status"
   homepage "https://statim.laibe.cc/"
