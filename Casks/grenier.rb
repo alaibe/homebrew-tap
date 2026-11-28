@@ -1,6 +1,6 @@
 cask "grenier" do
-  version "0.1.11"
-  sha256 "6637dc42b11aeaff2d0d561ebe0b57c2613ec18560e96ed08fdd6bdf6104dba2"
+  version "0.1.12"
+  sha256 "ad7791309da4efd44b49ba1888f7c8d4356ac672082bd4e7ab23aca1484a565d"
 
   url "https://github.com/alaibe/grenier/releases/download/v#{version}/Grenier-#{version}.dmg"
   name "Grenier"
